@@ -1,0 +1,18 @@
+{
+  "verify": "YOUR_VERIFICATION_TOKEN",
+  "first_name": "FirstName",
+  "last_name": "LastName",
+  "title": "Security Engineer",
+  "bio": "Focused on secure systems testing and practical defensive engineering.",
+  "location": "Berlin, Germany",
+  "email": "identity@gid.sh",
+  "website": "https://johndoe.dev",
+  "social": {
+    "github": "j0hnd0e",
+    "linkedin": "johndoe",
+    "x": "j0hnd0e"
+  },
+  "skills": ["skill1", "skill2", "skill3"],
+  "certifications": ["cert1", "cert2"],
+  "pgp_key": "https://gid.sh/keys/public-key.asc"
+}
