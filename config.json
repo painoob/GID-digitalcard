@@ -13,6 +13,6 @@
     "x": "painooboficial"
   },
   "skills": ["skill1", "skill2", "skill3"],
-  "certifications": ["DCPT", "SYCP", "SYAP", "SYWP", "SYH2","CRTSv2","CRTA","eJPT","eCPPT","eWPTX"],
+  "certifications": ["DCPT", "SYCP", "SYAP", "SYWP", "SYH2"],
   "pgp_key": "https://gid.sh/keys/public-key.asc"
 }
